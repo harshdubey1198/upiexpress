@@ -54,7 +54,7 @@ function Home() {
             <input type="submit" value="Login" />
           </form>
         </div>
-      </div>
+      </div><button>This is page is under maintenance. </button>
     </section>
   );
 }
